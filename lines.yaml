@@ -1,6 +1,10 @@
-actions:
+purple:
   - ' * '
   - ' > '
 
 white:
   - '\[ {FFFFFF}\d+\.'
+
+red:
+  - "'s Drugs:"
+  - "'s Weapon Packages:"
