@@ -4,6 +4,7 @@ purple:
 
 white:
   - '\[ {FFFFFF}\d+\.'
+  - 'says:'
 
 red:
   - "'s Drugs:"
