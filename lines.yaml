@@ -1,3 +1,6 @@
 actions:
   - ' * '
   - ' > '
+
+white:
+  - '\[ {FFFFFF}\d+\.'
