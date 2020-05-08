@@ -1,6 +1,7 @@
 purple:
   - ' * '
   - ' > '
+  ' test'
 
 white:
   - '\[ {FFFFFF}\d+\.'
